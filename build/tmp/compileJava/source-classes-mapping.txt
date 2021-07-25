@@ -2,5 +2,15 @@ one/innovation/digital/FunctionCompositions.java
  one.innovation.digital.FunctionCompositions
 one/innovation/digital/PureFunctions.java
  one.innovation.digital.PureFunctions
+one/innovation/digital/Funcao.java
+ one.innovation.digital.Funcao
+one/innovation/digital/FuncaoComLambda.java
+ one.innovation.digital.FuncaoComLambda
 one/innovation/digital/Imutabilidade.java
  one.innovation.digital.Imutabilidade
+one/innovation/digital/FuncaoComClasseAnonima.java
+ one.innovation.digital.FuncaoComClasseAnonima
+ one.innovation.digital.FuncaoComClasseAnonima$1
+one/innovation/digital/Aula.java
+ one.innovation.digital.Aula
+ one.innovation.digital.Funcao1
