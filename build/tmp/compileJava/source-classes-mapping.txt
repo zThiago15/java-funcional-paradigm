@@ -1,0 +1,6 @@
+one/innovation/digital/FunctionCompositions.java
+ one.innovation.digital.FunctionCompositions
+one/innovation/digital/PureFunctions.java
+ one.innovation.digital.PureFunctions
+one/innovation/digital/Imutabilidade.java
+ one.innovation.digital.Imutabilidade
