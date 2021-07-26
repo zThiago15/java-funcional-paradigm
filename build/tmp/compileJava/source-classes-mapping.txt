@@ -11,6 +11,12 @@ one/innovation/digital/Imutabilidade.java
 one/innovation/digital/FuncaoComClasseAnonima.java
  one.innovation.digital.FuncaoComClasseAnonima
  one.innovation.digital.FuncaoComClasseAnonima$1
+one/innovation/digital/fatorialRecursivo/FatorialRecursivo.java
+ one.innovation.digital.fatorialRecursivo.FatorialRecursivo
 one/innovation/digital/Aula.java
  one.innovation.digital.Aula
  one.innovation.digital.Funcao1
+one/innovation/digital/FatorialMemorization.java
+ one.innovation.digital.FatorialMemorization
+one/innovation/digital/fatorialRecursivo/FatorialTailCall.java
+ one.innovation.digital.fatorialRecursivo.FatorialTailCall
