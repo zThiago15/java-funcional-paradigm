@@ -1,5 +1,8 @@
 package one.innovation.digital.aula2;
 
+import java.awt.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -10,7 +13,20 @@ public class Iteracoes {
         String[] nomes = {"Thiago", "Joao", "Joao", "Rafaella", "Elisangela", "Gustavo"};
         Integer[] numeros = {1,2,3,4,5};
         //imprimirNomesFiltrados(nomes);
-        imprimirTodosOsNomes(nomes);
+        //imprimirTodosOsNomes(nomes);
+        //imprimirODobroDeCadaItemDaLista(numeros);
+
+        List<String> profissoes = new ArrayList<>();
+        profissoes.add("Desenvolvedor");
+        profissoes.add("QA");
+        profissoes.add("Gerente de projeto");
+        profissoes.add("Gerente de qualidade");
+
+        profissoes.stream()
+                .filter(profissao -> profissao.startsWith("Gerente"))
+                .forEach(System.out::println);
+
+
     }
 
     public static void imprimirNomesFiltrados(String... nomes){
@@ -48,6 +64,9 @@ public class Iteracoes {
         for(Integer numero: numeros){
             System.out.println(numero*2); //Imprimir o dobro de cada número do Array
         }
+
+        Stream.of(numeros).map(numero -> numero *2)
+                .forEach(System.out::println);
     }
 
 
