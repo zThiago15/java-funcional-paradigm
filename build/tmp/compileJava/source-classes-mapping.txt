@@ -3,8 +3,8 @@ one/innovation/digital/aula2/Supplies.java
  one.innovation.digital.aula2.Supplies
 one/innovation/digital/aula1/Imutabilidade.java
  one.innovation.digital.aula1.Imutabilidade
-one/innovation/digital/aula1/FatorialMemorization.java
- one.innovation.digital.aula1.FatorialMemorization
+one/innovation/digital/aula2/Iteracoes.java
+ one.innovation.digital.aula2.Iteracoes
 one/innovation/digital/aula2/Predicados.java
  one.innovation.digital.aula2.Predicados
 one/innovation/digital/aula1/FuncaoComClasseAnonima.java
@@ -16,6 +16,8 @@ one/innovation/digital/aula1/PureFunctions.java
  one.innovation.digital.aula1.PureFunctions
 one/innovation/digital/aula1/FuncaoComLambda.java
  one.innovation.digital.aula1.FuncaoComLambda
+one/innovation/digital/aula1/FatorialMemorization.java
+ one.innovation.digital.aula1.FatorialMemorization
 one/innovation/digital/aula2/Consumidores.java
  one.innovation.digital.aula2.Consumidores
 one/innovation/digital/aula1/Aula.java
@@ -32,5 +34,7 @@ one/innovation/digital/aula1/fatorialRecursivo/FatorialRecursivo.java
  one.innovation.digital.aula1.fatorialRecursivo.FatorialRecursivo
 one/innovation/digital/aula1/fatorialRecursivo/FatorialTailCall.java
  one.innovation.digital.aula1.fatorialRecursivo.FatorialTailCall
-one/innovation/digital/aula2/Iteracoes.java
- one.innovation.digital.aula2.Iteracoes
+one/innovation/digital/aula3/ThreadExemplo.java
+ one.innovation.digital.aula3.BarraDeCarregamento
+ one.innovation.digital.aula3.GeradorPDF
+ one.innovation.digital.aula3.ThreadExemplo
