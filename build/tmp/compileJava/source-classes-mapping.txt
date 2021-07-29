@@ -1,25 +1,27 @@
 one/innovation/digital/aula2/Supplies.java
  one.innovation.digital.aula2.Pessoa
  one.innovation.digital.aula2.Supplies
-one/innovation/digital/aula1/Imutabilidade.java
- one.innovation.digital.aula1.Imutabilidade
-one/innovation/digital/aula2/Iteracoes.java
- one.innovation.digital.aula2.Iteracoes
 one/innovation/digital/aula2/Predicados.java
  one.innovation.digital.aula2.Predicados
+one/innovation/digital/aula1/fatorialRecursivo/FatorialTailCall.java
+ one.innovation.digital.aula1.fatorialRecursivo.FatorialTailCall
 one/innovation/digital/aula1/FuncaoComClasseAnonima.java
  one.innovation.digital.aula1.FuncaoComClasseAnonima
  one.innovation.digital.aula1.FuncaoComClasseAnonima$1
-one/innovation/digital/aula1/FunctionCompositions.java
- one.innovation.digital.aula1.FunctionCompositions
-one/innovation/digital/aula1/PureFunctions.java
- one.innovation.digital.aula1.PureFunctions
+one/innovation/digital/aula3/ExemploParallelStream.java
+ one.innovation.digital.aula3.ExemploParallelStream
 one/innovation/digital/aula1/FuncaoComLambda.java
  one.innovation.digital.aula1.FuncaoComLambda
-one/innovation/digital/aula1/FatorialMemorization.java
- one.innovation.digital.aula1.FatorialMemorization
-one/innovation/digital/aula2/Consumidores.java
- one.innovation.digital.aula2.Consumidores
+one/innovation/digital/aula3/FutureExample.java
+ one.innovation.digital.aula3.Atividade
+ one.innovation.digital.aula3.Casa
+ one.innovation.digital.aula3.Comodo
+ one.innovation.digital.aula3.FutureExample
+ one.innovation.digital.aula3.Quarto
+one/innovation/digital/javaModular/internal/DivHelper.java
+ one.innovation.digital.javaModular.internal.DivHelper
+one/innovation/digital/javaModular/Main.java
+ one.innovation.digital.javaModular.Main
 one/innovation/digital/aula1/Aula.java
  one.innovation.digital.aula1.Aula
  one.innovation.digital.aula1.Funcao1
@@ -28,13 +30,38 @@ one/innovation/digital/aula2/FuncaoAltaOrdem.java
  one.innovation.digital.aula2.FuncaoAltaOrdem
 one/innovation/digital/aula2/Funcoes.java
  one.innovation.digital.aula2.Funcoes
-one/innovation/digital/aula1/Funcao.java
- one.innovation.digital.aula1.Funcao
-one/innovation/digital/aula1/fatorialRecursivo/FatorialRecursivo.java
- one.innovation.digital.aula1.fatorialRecursivo.FatorialRecursivo
-one/innovation/digital/aula1/fatorialRecursivo/FatorialTailCall.java
- one.innovation.digital.aula1.fatorialRecursivo.FatorialTailCall
+one/innovation/digital/aula1/FatorialMemorization.java
+ one.innovation.digital.aula1.FatorialMemorization
+one/innovation/digital/aula1/Imutabilidade.java
+ one.innovation.digital.aula1.Imutabilidade
+one/innovation/digital/aula2/Iteracoes.java
+ one.innovation.digital.aula2.Iteracoes
+one/innovation/digital/javaModular/internal/MultHelper.java
+ one.innovation.digital.javaModular.internal.MultHelper
+one/innovation/digital/aula1/FunctionCompositions.java
+ one.innovation.digital.aula1.FunctionCompositions
+one/innovation/digital/javaModular/internal/SubHelper.java
+ one.innovation.digital.javaModular.internal.SubHelper
+one/innovation/digital/javaModular/Operacao.java
+ one.innovation.digital.javaModular.Operacao
+one/innovation/digital/aula1/PureFunctions.java
+ one.innovation.digital.aula1.PureFunctions
+one/innovation/digital/javaModular/internal/SumHelper.java
+ one.innovation.digital.javaModular.internal.SumHelper
 one/innovation/digital/aula3/ThreadExemplo.java
  one.innovation.digital.aula3.BarraDeCarregamento
  one.innovation.digital.aula3.GeradorPDF
  one.innovation.digital.aula3.ThreadExemplo
+one/innovation/digital/aula2/Consumidores.java
+ one.innovation.digital.aula2.Consumidores
+one/innovation/digital/javaModular/Calculadora.java
+ one.innovation.digital.javaModular.Calculadora
+one/innovation/digital/aula1/Funcao.java
+ one.innovation.digital.aula1.Funcao
+one/innovation/digital/aula1/fatorialRecursivo/FatorialRecursivo.java
+ one.innovation.digital.aula1.fatorialRecursivo.FatorialRecursivo
+one/innovation/digital/aula5/InferenciaExemplo.java
+ one.innovation.digital.aula5.InferenciaExemplo
+one/innovation/digital/aula6/HttpClientExample.java
+ one.innovation.digital.aula6.HttpClientExample
+ one.innovation.digital.aula6.HttpClientExample$1
