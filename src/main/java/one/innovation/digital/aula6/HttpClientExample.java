@@ -24,12 +24,12 @@ public class HttpClientExample {
         }
     });
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws Exception {
         connectAndPrintURLJavaOracle();
     }
 
 
-    public static void connectAkamaiHttpClient() throws IOException, InterruptedException {
+    public static void connectAkamaiHttpClient() throws Exception {
         System.out.println("Running Http 1.1 client");
 
         try{
@@ -69,12 +69,9 @@ public class HttpClientExample {
                                     HttpResponse<String> imageResponse = httpClient.send(imgRequest, HttpResponse.BodyHandlers.ofString());
                                     System.out.println("Imagem carregada: "+image+ ", status code: "+ imageResponse.statusCode());
 
-                                } catch (IOException e) {
-                                    e.printStackTrace();
-                                } catch (InterruptedException e) {
-                                    e.printStackTrace();
+                                } catch (IOException | InterruptedException e) {
+                                    System.out.println("Mensagem de erro durante requisição para recuperar a image"+ image);
                                 }
-
 
                     });
                             future.add(imgFuture);
@@ -84,20 +81,14 @@ public class HttpClientExample {
             future.forEach(f -> {
                 try {
                     f.get();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                } catch (ExecutionException e) {
-                    e.printStackTrace();
+                } catch (InterruptedException | ExecutionException e) {
+                    System.out.println("Erro ao esperar carregar imagem do futuro");
                 }
             });
 
             long end = System.currentTimeMillis();
             System.out.println("Tempo de carregamento total: " + (end - start)+ "ms");
 
-    } catch (IOException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
         } finally {
             executor.shutdown();
         }

@@ -3,8 +3,8 @@ one/innovation/digital/aula2/Supplies.java
  one.innovation.digital.aula2.Supplies
 one/innovation/digital/aula2/Predicados.java
  one.innovation.digital.aula2.Predicados
-one/innovation/digital/aula1/fatorialRecursivo/FatorialTailCall.java
- one.innovation.digital.aula1.fatorialRecursivo.FatorialTailCall
+one/innovation/digital/aula5/InferenciaExemplo.java
+ one.innovation.digital.aula5.InferenciaExemplo
 one/innovation/digital/aula1/FuncaoComClasseAnonima.java
  one.innovation.digital.aula1.FuncaoComClasseAnonima
  one.innovation.digital.aula1.FuncaoComClasseAnonima$1
@@ -58,10 +58,18 @@ one/innovation/digital/javaModular/Calculadora.java
  one.innovation.digital.javaModular.Calculadora
 one/innovation/digital/aula1/Funcao.java
  one.innovation.digital.aula1.Funcao
-one/innovation/digital/aula1/fatorialRecursivo/FatorialRecursivo.java
- one.innovation.digital.aula1.fatorialRecursivo.FatorialRecursivo
-one/innovation/digital/aula5/InferenciaExemplo.java
- one.innovation.digital.aula5.InferenciaExemplo
 one/innovation/digital/aula6/HttpClientExample.java
  one.innovation.digital.aula6.HttpClientExample
  one.innovation.digital.aula6.HttpClientExample$1
+one/innovation/digital/aula1/fatorialRecursivo/FatorialRecursivo.java
+ one.innovation.digital.aula1.fatorialRecursivo.FatorialRecursivo
+one/innovation/digital/aula1/fatorialRecursivo/FatorialTailCall.java
+ one.innovation.digital.aula1.fatorialRecursivo.FatorialTailCall
+one/innovation/digital/aula6/InferenciaLambda.java
+ one.innovation.digital.aula6.InferenciaLambda
+one/innovation/digital/aula6/StringLineExample.java
+ one.innovation.digital.aula6.StringLineExample
+one/innovation/digital/aula6/CollectionsExemplo.java
+ one.innovation.digital.aula6.CollectionsExemplo
+one/innovation/digital/aula6/StringRepeat.java
+ one.innovation.digital.aula6.StringRepeat
